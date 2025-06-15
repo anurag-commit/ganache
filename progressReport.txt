@@ -1,0 +1,35 @@
+Day 1:
+
+    Started work on System 2 (Kali Linux) by installing and configuring Ganache for a local Ethereum blockchain.
+
+    Managed to set up and run the blockchain, but encountered a critical issue where:
+
+        Only one transaction was being accepted per block
+
+        Subsequent transactions were mined only after the next block
+
+    Spent time debugging the issue and verifying it was due to script structure and block timing.
+
+    Ended Day 1 with a functional chain, but still limited transaction throughput per block.
+
+Day 2:
+
+    Attempted the same setup on System 1 (Arch Linux) but ran into multiple dependency and mirror-related errors.
+
+    To ensure smoother performance (as System 2 is not always available), decided to:
+
+        Install Kali Linux on System 1 for better compatibility
+
+    Successfully completed the following:
+
+        Installed and configured Kali Linux from scratch
+
+        Updated system packages and installed Node.js, npm, and Ganache
+
+        Launched a Ganache blockchain with --db and slower mining time (120s per block)
+
+        Created key scripts for sending transactions (sendTx.js, manualTx.js), block monitoring (watchAllBlocks.js), and attack simulation (floodTx.js)
+
+        Performed a Flood-of-Transactions (FoT) attack by sending 500 rapid transactions
+
+        Exported all block data into exported_blocks.json for future dataset use (e.g., training ML models)
