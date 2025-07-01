@@ -1,42 +1,42 @@
 [
   {
-    "account": "0x00B4b4c7199abe7062e9De54ed121aF33E617EE0",
-    "balance_eth": "999.72255391230951"
+    "account": "0x50C5d0FD49A541e514C453FD420E69e0F2b6Bef5",
+    "balance_eth": "0"
   },
   {
-    "account": "0xEC332099A2CbFABf67A310C55213C801CC12a726",
-    "balance_eth": "1000.25"
+    "account": "0x402F68477241dFbD5969270972B7a4EF6322F0e2",
+    "balance_eth": "0"
   },
   {
-    "account": "0xC3055315065be40A4E93FDf28E758e8c20f517b1",
-    "balance_eth": "1002"
+    "account": "0x3160f207d07C545f7Cc1a9b99CC53A10696922E6",
+    "balance_eth": "0"
   },
   {
-    "account": "0x53f4E07BAD7F5DC65B4E1b16323c0e37573aF2EF",
-    "balance_eth": "1000"
+    "account": "0x99616c484cCDdbCcf6D04aD445d03a504136E400",
+    "balance_eth": "0"
   },
   {
-    "account": "0x6cD93A451a18B2766654810DfF4df71bA228fC95",
-    "balance_eth": "997.999947061279088"
+    "account": "0xFC2F5E49BB6c40582Fc6fF98C14A9842099d3327",
+    "balance_eth": "0"
   },
   {
-    "account": "0x178184fC89c3A2F73ab400Ecb3FF5F00eD0dBE27",
-    "balance_eth": "1000"
+    "account": "0x12B1Dbdd90aAdDC15A87555ADb93157aE4264288",
+    "balance_eth": "0"
   },
   {
-    "account": "0x671eD1da27eb93D7175404364E892d8c5524D190",
-    "balance_eth": "1000"
+    "account": "0x44C1070F73a407d59351B27df33a7BA7F299c626",
+    "balance_eth": "0"
   },
   {
-    "account": "0x68A49C4af46aC751f7eD37fB694e8a470aC505C1",
-    "balance_eth": "1000"
+    "account": "0xDE3247cd118f6cFa3023068308331f0CfE42B05E",
+    "balance_eth": "0"
   },
   {
-    "account": "0x58CF8275A638216D93CdFcb66E61CcE4bFa3759e",
-    "balance_eth": "1000"
+    "account": "0xEC91D949581f97de89aA46E44F19295E5C09c865",
+    "balance_eth": "0"
   },
   {
-    "account": "0x2862bF27d00eef0cdF6F6f141187B954F4Aa3f02",
-    "balance_eth": "1000"
+    "account": "0x7bACE13C55a6B561d94CB1bf9c733b1C183eAbbF",
+    "balance_eth": "0"
   }
 ]
